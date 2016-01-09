@@ -1,0 +1,28 @@
+name: Srejan
+favicon: null
+layout_spectrum: 0.5151594025082886
+typography_spectrum: 0.4988135430030525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8953827924560755
+  lightness: 0.24391979072242975
+  saturation: 0.24893314437940717
+  rhythmicContrast: 0.8003401225432754
+purpose: []
